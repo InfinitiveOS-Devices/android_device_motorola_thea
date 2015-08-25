@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # system.prop for thea
 ro.product.model=thea
 ro.product.device=thea
@@ -6,3 +7,5 @@ rild.libargs=-d /dev/smd0
 
 # audio
 ro.audio.monitorRotation=1
+=======
+>>>>>>> 5416339... thea: Move props to the common device tree
