@@ -1,3 +1,6 @@
 # system.prop for thea
 ro.product.model=thea
 ro.product.device=thea
+
+# audio
+ro.audio.monitorRotation=1
